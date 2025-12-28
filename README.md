@@ -1,2 +1,1 @@
-https://github.com/APolyakov-S/zakrivayuschiy-teg-f
-https://apolyakov-s.github.io/zakrivayuschiy-teg-f/
+https://github.com/APolyakov-S/zakrivayuschiy-teg-f https://apolyakov-s.github.io/zakrivayuschiy-teg-f/
